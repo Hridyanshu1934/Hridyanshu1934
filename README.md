@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hridyanshu1934
-- 👀 I’m interested in learning Python and Cybersecurity
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learning DSA and Cybersecurity
+- 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email me at hridyanshukhattar@icloud.com
 
